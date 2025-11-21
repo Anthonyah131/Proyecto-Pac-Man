@@ -212,7 +212,7 @@ This project was developed by:
 
 - [**Anthony Avila**](https://github.com/Anthonyah131) - Developer
 - [**Luis Vargas**](https://github.com/Luvara) - Developer
-- [**Kendall Araya**](https://github.com/kjarj54) - Developer
+- [**Kevin Arauz**](https://github.com/kjarj54) - Developer
 
 ## License
 
