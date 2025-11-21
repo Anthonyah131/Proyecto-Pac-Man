@@ -210,7 +210,7 @@ Unlock achievements by completing specific challenges throughout the game.
 
 This project was developed by:
 
-- [**Anthony Aguilar**](https://github.com/Anthonyah131) - Project Lead & Developer
+- [**Anthony Avila**](https://github.com/Anthonyah131) - Developer
 - [**Luis Vargas**](https://github.com/Luvara) - Developer
 - [**Kendall Araya**](https://github.com/kjarj54) - Developer
 
